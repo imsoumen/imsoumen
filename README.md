@@ -2,7 +2,7 @@
 <h2 align="left">
  <qq>
    <div align="center" width="50">
-  <img src="https://github.com/imsoumen/imsoumen/blob/main/hello.gif" width="300" height="80"><br>
+  <img src="https://github.com/imsoumen/imsoumen/blob/main/hello.gif" width="300" height="75"><br>
   <br> I'm Soumen Saha :blush:<br>
   <br> Welcome to my Github :computer:<br>
   <a  href="https://github.com/imsoumen">
